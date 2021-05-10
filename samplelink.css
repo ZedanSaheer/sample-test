@@ -1,0 +1,13 @@
+*{
+padding:10px;
+}
+body{
+    font-family: sans-serif;
+    background-color:slategray;
+    }
+h1,h2,h3{
+    font-family: sans-serif;
+}
+p{
+    font-family: sans-serif;
+}
